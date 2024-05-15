@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* .image1 {
+  box-shadow: 10px 7px 20px 0px chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin: auto;
+  margin-top: 75px;
+} */
+
+.image1 {
+  filter: drop-shadow(8px 8px 10px red);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin: auto;
+  margin-top: 70px;
+}
